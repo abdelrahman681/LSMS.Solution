@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="LSMS.Application/LSMS.Application.csproj" />
+    <Project Path="LSMS.Domain/LSMS.Domain.csproj" />
+    <Project Path="LSMS.Infrastructure/LSMS.Infrastructure.csproj" />
+    <Project Path="LSMS/LSMS.API.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="LSMS.Test/LSMS.Test.csproj" />
+  </Folder>
+</Solution>
